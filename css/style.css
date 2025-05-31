@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Metrophobic&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metrophobic&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.bg-pink {
+    background: rgb(247,237,237);
+background: linear-gradient(90deg, rgba(247,237,237,1) 50%, rgb(210, 56, 97) 50%);
+}
+
+.nav_btn{
+    width: Hug (108px)px;
+height: Hug (36px)px;
+background:#ed017f;
+border:none;
+border-radius: 5px;
+font-family: Rubik;
+font-size: 12px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 2px;
+text-align: center;
+color: #ffff;
+
+
+}
+
+.navbar{
+    font-family: Metropolis;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+
+
+    .main_title{
+    font-family: Metropolis;
+    font-size: 63px;
+    font-weight: 900;
+    line-height: 100px;
+    text-align: left;
+    margin-top: 100px;
+
+}
+
+.subtitle{
+    font-family: Metropolis;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    width: 380px;
+}
+
+.apply_btn{
+    width: 188px;
+    height: 46px;
+    background: #ed017f;
+    border: none;
+    border-radius: 5px;
+    color:#ffff;
+
+}
+
+.loan_btn{
+    width: 188px;
+    height: 46px;
+    background-color: #ffff;
+    border-radius: 5px;
+    border: 1px solid #ed017f;
+    color: #ed017f;
+    }
+
+.social_networks{
+    margin-top: 200px;
+
+}
+
+.car_loan_card{
+    width: 161px;
+    height: 71px;
+    background-color: #ffff;
+    border-radius: 55px;
+    font-family: Metropolis;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 4px 4px 58px 0px #0000001F;
+
+
+}
+
+.family_card{
+
+    width: 905px;
+    height: 654px;
+    top: 190px;
+    left: 732px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+
+}
+
+.home_loan_card{
+    width: 160px;
+    height: 71px;
+    background-color: #ffff;
+    border-radius: 55px;
+    font-family: Metropolis;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 4px 4px 58px 0px #0000001F;
+    position: absolute;
+    right: 50px;
+    top:280px;
+
+}
+
+.feature_title{
+    
+    font-family: Metropolis;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    text-align: center;
+
+}
+
+.padding_top{
+    padding-top: 150px; ;
+}
+
+.feature_subtitle{
+    
+    font-family: Metropolis;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    
+
+}
+
+.feature_item_title{
+    font-family: Metropolis;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+
+}
+
+.feature_item_subtitle{
+    font-family: Metropolis;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+padding-right: 75px;
+
+}
